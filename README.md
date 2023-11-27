@@ -30,11 +30,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wo
 
 <p></p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lecastus\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Use [show\_owner](#repo-card-exclusive-options) query option to include the repo's owner username
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats\&show_owner=true)
 <p></p>
 
 
