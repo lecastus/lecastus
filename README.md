@@ -25,11 +25,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wo
 
 <p></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lecastus)
-
-
-<p></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lecastus\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <p></p>
