@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou Leandro Castelani 👋
 
 - 🔭 I’m currently working on financial flow prediction with bayesian models and Monte Carlo theory
 - 🌱 I’m currently learning financial modeling with ML 
