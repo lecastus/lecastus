@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wo
 
 <p></p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lecastus\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lecastus)
 
 
 <p></p>
